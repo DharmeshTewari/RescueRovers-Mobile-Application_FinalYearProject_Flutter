@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "633754370973",
+    "project_id": "dogadopt-e284a",
+    "storage_bucket": "dogadopt-e284a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633754370973:android:e0644850ac8f8c84ade574",
+        "android_client_info": {
+          "package_name": "com.example.rescuerovers"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBi4Bj7JRpv4kKRABvCixRlPjEJhP256R8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
